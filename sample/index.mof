@@ -1,0 +1,9 @@
+<require>
+    <tag module="mofron-comp-clktext">Text</tag>
+</require>
+
+<script name=clkevt run=init>
+console.log("click text");
+</script>
+
+<Text clickEvent=@clkevt>click</Text>
