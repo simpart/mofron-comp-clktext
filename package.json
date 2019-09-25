@@ -1,6 +1,6 @@
 {
   "name": "mofron-comp-clktext",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "click text component for mofron",
   "main": "index.js",
   "scripts": {

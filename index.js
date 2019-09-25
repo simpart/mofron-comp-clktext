@@ -42,6 +42,7 @@ mf.comp.ClkText = class extends Text {
 	    );
 	    this.target(tgt);
 	    this.event(new Click({ tag: "ClkText" }));
+	    this.size("0.16rem");
         } catch (e) {
             console.error(e.stack);
             throw e;
